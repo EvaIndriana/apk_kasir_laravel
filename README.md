@@ -1,66 +1,114 @@
-#Aplikasi Kasir Laravel
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# Biodata 
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<p>Nama : Eva Indriana Juansyah</p>
+<p>NIM : 312020039</p>
+<p>Program Studi: Teknik Komputerp>
 
-## About Laravel
+# Tugas
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Aplikasi Kasir Penjualan di Buat untuk memenuhi nilai Ujian Akhir Semester Mata Kuliah Pemrograman Framework.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Aplikasi Kasir  Penjualan Sederhana (Laravel Project) 
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Tugas diminta untuk membuat aplikasi kasir sederhana yang mencakup fitur:
 
-## Learning Laravel
+1. Mencatat transaksi pembelian barang
+2. Menampilkan daftar transaksi pembelian barang
+3. Authentikasi login pengguna
+4. Pengaturan data pengguna
+5. Pengaturan data master produk
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Fitur Role Atau Pembatasan Menu Untuk Setiap Users
 
-## Laravel Sponsors
+-   Admin
+-   Kasir
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+## Fitur Aplikasi
 
-### Premium Partners
+-   Login<br>
+-   Logout<br>
+-   Halaman Utama<br><br>
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+    A. Profile<br>
 
-## Contributing
+-   Ubah Data (Data Profile)<br>
+-   Detail Data (Data Profile)<br><br>
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+    B. Data Pengguna<br>
 
-## Code of Conduct
+-   Tambah Data (Data Pengguna)<br>
+-   Ubah Data (Data Pengguna)<br>
+-   Hapus Data (Data Pengguna)<br>
+-   Detail Data (Data Pengguna)<br>
+-   Cari Data (Data Pengguna)<br>
+-   Print Data (Data Pengguna)<br>
+-   PDF Data (Data Pengguna)<br>
+-   Print Data Detail (Data Pengguna)<br>
+-   PDF Data Detail (Data Pengguna)<br>
+-   Excel Export Data (Data Pengguna)<br><br>
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+    C. Master Barang<br>
 
-## Security Vulnerabilities
+-   Tambah Data (Master Barang)<br>
+-   Ubah Data (Master Barang)<br>
+-   Hapus Data (Master Barang)<br>
+-   Detail Data (Master Barang)<br>
+-   Cari Data (Master Barang)<br>
+-   Print Data (Master Barang)<br>
+-   PDF Data (Master Barang)<br>
+-   Print Data Detail (Master Barang)<br>
+-   PDF Data Detail (Master Barang)<br>
+-   Excel Export Data (Master Barang)<br><br>
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+    C. Transaksi Pembelian<br>
 
-## License
+-   Tambah Data (Transaksi Pembelian)<br>
+-   Ubah Data (Transaksi Pembelian)<br>
+-   Hapus Data (Transaksi Pembelian)<br>
+-   Detail Data (Transaksi Pembelian)<br>
+-   Cari Data (Transaksi Pembelian)<br>
+-   Print Data (Transaksi Pembelian)<br>
+-   PDF Data (Transaksi Pembelian)<br>
+-   Print Data Detail (Transaksi Pembelian)<br>
+-   PDF Data Detail (Transaksi Pembelian)<br>
+-   Excel Export Data (Transaksi Pembelian)<br><br>
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# Aplikasi_Kasir_Penjualan
+    C. Transaksi Pembelian Barang<br>
+
+-   Tambah Data (Transaksi Pembelian Barang)<br>
+-   Ubah Data (Transaksi Pembelian Barang)<br>
+-   Hapus Data (Transaksi Pembelian Barang)<br>
+-   Detail Data (Transaksi Pembelian Barang)<br>
+-   Cari Data (Transaksi Pembelian Barang)<br>
+-   Print Data (Transaksi Pembelian Barang)<br>
+-   PDF Data (Transaksi Pembelian Barang)<br>
+-   Print Data Detail (Transaksi Pembelian Barang)<br>
+-   PDF Data Detail (Transaksi Pembelian Barang)<br>
+-   Excel Export Data (Transaksi Pembelian Barang)<br><br>
+
+
+
+## Alat Yang Digunakan Untuk Membuat Web :
+
+A. Software :
+
+-   Visual Studio Code
+-   Git
+-   PHP 7.4.9
+
+B. Komponen
+
+-   Laravel 8
+-   Bootstrap 4 & 5
+-   Template Tambahan :
+    -   Sb Admin 2 (Bootstrap 4) (Untuk Template Admin Full)
+    -   Zinc (Bootstrap 5) (Khusus Halaman Utama)
+-   Library :
+    -   Carbon Laravel Time
+    -   Dompdf
+    -   Laravel Excel
+    -   Sweet Alert
+    -   Datatables
+    -   TinyMCE
+
