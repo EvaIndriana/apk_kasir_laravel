@@ -2,7 +2,7 @@
 
 <p>Nama : Eva Indriana Juansyah</p>
 <p>NIM : 312020039</p>
-<p>Program Studi: Teknik Komputerp>
+<p>Program Studi: Teknik Komputer </p>
 
 # Tugas
 
